@@ -1,0 +1,3 @@
+# WallpaperAutomation
+
+パソコンの壁紙が自動でUnsplashのAPIによって時間ごとに変更されます。
